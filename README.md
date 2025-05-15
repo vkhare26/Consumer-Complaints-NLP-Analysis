@@ -4,7 +4,7 @@
 
 The objective is to analyze consumer financial complaints from the Consumer Financial Protection Bureau (CFPB) dataset using Natural Language Processing (NLP) techniques. The dataset includes unstructured complaint narratives and metadata (e.g., product, issue, company, state) for complaints submitted via the CFPB website. The project involves exploratory data analysis, text preprocessing, topic identification, sentiment analysis, and leveraging GPT-3.5 via OpenAI's API to generate summaries and insights. The goal is to uncover trends in consumer complaints, predict sentiment, and provide actionable recommendations to improve financial services.
 # Methodology
-The analysis is conducted in a Jupyter Notebook (DSPM_HW3_vinayakk.ipynb) using Python, following the assignment's four main tasks:
+The analysis is conducted in a Jupyter Notebook (customer_complaints_analysis.ipynb) using Python, following the assignment's four main tasks:
 
 ## Text Preprocessing and Data Profiling:
 
